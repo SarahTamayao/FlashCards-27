@@ -16,7 +16,7 @@ A studying app that allows users to create flashcards and toggle between the que
 - [x] User should see a slide animation when going to the previous flashcard
 - [x] Push code to GitHub
 ## Optional
-- [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [x] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
 - [ ] User should see all views properly layout when using the app on a phone of different sizes
 - [ ] Correct answer in multiple choice should be random
 
