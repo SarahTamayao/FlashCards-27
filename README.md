@@ -1,6 +1,6 @@
 # FlashCards
 
-# Lab 4 W/O Optionals
+# Lab 4
 
 # App Description
 A studying app that allows users to create flashcards and toggle between the question and answer. There are also selectable multiple choice buttons to help users study and improve memory. Now with additional animations to improve user experience.
